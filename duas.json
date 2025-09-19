@@ -1,262 +1,1052 @@
 [
   {
     "id": 1,
-    "title_arabic": "بِسْمِ اللَّهِ",
-    "title_english": "In the Name of Allah",
-    "title_hindi": "अल्लाह के नाम से",
-    "title_urdu": "اللہ کے نام سے",
-    "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
-    "transliteration": "Bismillahir Rahmanir Raheem",
-    "translation_english": "In the name of Allah, the Most Gracious, the Most Merciful.",
-    "translation_hindi": "अल्लाह के नाम से, जो सबसे कृपालु और दयालु है।",
-    "translation_urdu": "اللہ کے نام سے، جو نہایت مہربان اور رحم والا ہے۔",
-    "reference": "Quran 1:1"
+    "purpose": {
+      "arabic": "لقبول العمل",
+      "english": "For acceptance of deeds",
+      "hindi": "काम की कबूलियत के लिए",
+      "urdu": "عمل کی قبولیت کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَا تَقَبَّلۡ مِنَّآۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
+      "english": "Our Allah, accept [this] from us. Indeed You are the Hearing, the Knowing.",
+      "hindi": "हे हमारे अल्लाह, हमसे [यह] स्वीकार करो। निश्चय ही तू सुनने वाला, जानने वाला है।",
+      "urdu": "اے ہمارے اللہ! ہم سے قبول فرما، بے شک تو سننے والا جاننے والا ہے۔"
+    },
+    "reference": {
+      "arabic": "سورة البقرة ٢:١٢٧",
+      "english": "Surah Al-Baqarah 2:127",
+      "hindi": "सूरह अल-बक़रह 2:127",
+      "urdu": "سورۃ البقرہ 2:127"
+    }
   },
   {
     "id": 2,
-    "title_arabic": "الحمد لله",
-    "title_english": "All Praise is for Allah",
-    "title_hindi": "सारी प्रशंसा अल्लाह के लिए है",
-    "title_urdu": "تمام تعریفیں اللہ کے لیے ہیں",
-    "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
-    "transliteration": "Alhamdulillahi Rabbil 'Alamin",
-    "translation_english": "All praise is for Allah, Lord of the Worlds.",
-    "translation_hindi": "सारी प्रशंसा अल्लाह के लिए है, जो सारे जहान का पालनहार है।",
-    "translation_urdu": "تمام تعریفیں اللہ کے لیے ہیں، جو تمام جہانوں کا رب ہے۔",
-    "reference": "Quran 1:2"
+    "purpose": {
+      "arabic": "للإيمان والتوبة",
+      "english": "For faith and repentance",
+      "hindi": "ईमान और तौबा के लिए",
+      "urdu": "ایمان اور توبہ کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَا وَٱجۡعَلۡنَا مُسۡلِمَيۡنِ لَكَ وَمِن ذُرِّيَّتِنَآ أُمَّةٗ مُّسۡلِمَةٗ لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبۡ عَلَيۡنَآۖ إِنَّكَ أَنتَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "english": "Our Allah, make us Muslims [in submission] to You and from our descendants a Muslim nation [in submission] to You. And show us our rites [of worship] and accept our repentance. Indeed, You are the Accepting of Repentance, the Merciful.",
+      "hindi": "हे हमारे अल्लाह, हमें तेरी आज्ञाकारी मुसलमान बना दे और हमारी संतानों से तेरी आज्ञाकारी एक मुस्लिम कौम बना दे। और हमें हमारी रस्में दिखा और हमारा तौबा कबूल कर। निश्चय ही तू तौबा कबूल करने वाला, दयावान है।",
+      "urdu": "اے ہمارے اللہ! ہمیں اور ہماری اولاد کو تیری مرضی کے تابع مسلمان بنادے اور ہمیں ہماری عبادتیں دکھا اور ہم پر توبہ فرما، تو توبہ قبول کرنے والا رحیم ہے۔"
+    },
+    "reference": {
+      "arabic": "سورة البقرة ٢:١٢٨",
+      "english": "Surah Al-Baqarah 2:128",
+      "hindi": "सूरह अल-बक़रह 2:128",
+      "urdu": "سورۃ البقرہ 2:128"
+    }
   },
   {
     "id": 3,
-    "title_arabic": "أستغفر الله",
-    "title_english": "I Seek Forgiveness",
-    "title_hindi": "मैं अल्लाह से माफी मांगता हूँ",
-    "title_urdu": "میں اللہ سے معافی مانگتا ہوں",
-    "arabic": "أَسْتَغْفِرُ اللَّهَ",
-    "transliteration": "Astaghfirullah",
-    "translation_english": "I seek forgiveness from Allah.",
-    "translation_hindi": "मैं अल्लाह से माफी मांगता हूँ।",
-    "translation_urdu": "میں اللہ سے معافی مانگتا ہوں۔",
-    "reference": "Hadith"
+    "purpose": {
+      "arabic": "للخير في الدنيا والآخرة",
+      "english": "For goodness in this world and the Hereafter",
+      "hindi": "इस दुनिया और आखिरत में भलाई के लिए",
+      "urdu": "اس دنیا اور آخرت میں بھلائی کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةٗ وَفِي ٱلۡأٓخِرَةِ حَسَنَةٗ وَقِنَا عَذَابَ ٱلنَّارِ",
+      "english": "Our Allah, give us in this world [that which is] good and in the Hereafter [that which is] good and protect us from the punishment of the Fire.",
+      "hindi": "हे हमारे अल्लाह, हमें इस दुनिया में [जो] अच्छा है दे और आखिरत में [जो] अच्छा है और हमें आग के अजाब से बचा।",
+      "urdu": "اے ہمارے اللہ! ہمیں دنیا میں بھی بھلائی عطا فرما اور آخرت میں بھی، اور ہمیں آگ کے عذاب سے بچا۔"
+    },
+    "reference": {
+      "arabic": "سورة البقرة ٢:٢٠١",
+      "english": "Surah Al-Baqarah 2:201",
+      "hindi": "सूरह अल-बक़रह 2:201",
+      "urdu": "سورۃ البقرہ 2:201"
+    }
   },
   {
     "id": 4,
-    "title_arabic": "اللهم إني أسألك العافية",
-    "title_english": "I Ask for Well-being",
-    "title_hindi": "मैं भलाई और सुरक्षा मांगता हूँ",
-    "title_urdu": "میں عافیت مانگتا ہوں",
-    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَافِيَةَ",
-    "transliteration": "Allahumma inni as'aluka al-afiyah",
-    "translation_english": "O Allah! I ask You for well-being.",
-    "translation_hindi": "हे अल्लाह! मैं तुझसे भलाई और सुरक्षा मांगता हूँ।",
-    "translation_urdu": "اے اللہ! میں تجھ سے عافیت مانگتا ہوں۔",
-    "reference": "Hadith"
+    "purpose": {
+      "arabic": "للصبر والنصر",
+      "english": "For patience and victory",
+      "hindi": "सब्र और नुसरत के लिए",
+      "urdu": "صبر اور فتح کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَآ أَفۡرِغۡ عَلَيۡنَا صَبۡرٗا وَثَبِّتۡ أَقۡدَامَنَا وَٱنصُرۡنَا عَلَى ٱلۡقَوۡمِ ٱلۡكَٰفِرِينَ",
+      "english": "Our Allah, pour upon us patience and plant firmly our feet and give us victory over the disbelieving people.",
+      "hindi": "हे हमारे अल्लाह, हमारे ऊपर सब्र उंडेल दे और हमारे कदमों को मजबूत कर दे और काफिरों पर हमारी नुसरत फरमा।",
+      "urdu": "اے ہمارے اللہ! ہم پر صبر نازل فرما اور ہمارے قدم جمانے میں مدد فرما اور کافروں پر ہماری فتح عطا فرما۔"
+    },
+    "reference": {
+      "arabic": "سورة البقرة ٢:٢٥٠",
+      "english": "Surah Al-Baqarah 2:250",
+      "hindi": "सूरह अल-बक़रह 2:250",
+      "urdu": "سورۃ البقرہ 2:250"
+    }
   },
   {
     "id": 5,
-    "title_arabic": "سبحان الله",
-    "title_english": "Glory be to Allah",
-    "title_hindi": "अल्लाह की महिमा",
-    "title_urdu": "اللہ پاک ہے",
-    "arabic": "سُبْحَانَ اللَّهِ",
-    "transliteration": "Subhanallah",
-    "translation_english": "Glory be to Allah.",
-    "translation_hindi": "अल्लाह की महिमा।",
-    "translation_urdu": "اللہ پاک ہے۔",
-    "reference": "Hadith"
+    "purpose": {
+      "arabic": "لمغفرة الأخطاء",
+      "english": "For forgiveness of mistakes",
+      "hindi": "गलतियों की माफी के लिए",
+      "urdu": "غلطیوں کی معافی کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَا لَا تُؤَاخِذۡنَآ إِن نَّسِينَآ أَوۡ أَخۡطَأۡنَاۚ",
+      "english": "Our Allah, do not impose blame upon us if we have forgotten or erred.",
+      "hindi": "हे हमारे अल्लाह, अगर हम भूल गए या गलती की तो हमें दोष न दे।",
+      "urdu": "اے ہمارے اللہ! اگر ہم بھول جائیں یا خطا کریں تو ہمیں ملامت نہ کر۔"
+    },
+    "reference": {
+      "arabic": "سورة البقرة ٢:٢٨٦",
+      "english": "Surah Al-Baqarah 2:286",
+      "hindi": "सूरह अल-बक़रह 2:286",
+      "urdu": "سورۃ البقرہ 2:286"
+    }
   },
   {
     "id": 6,
-    "title_arabic": "الحمد لله كثيراً",
-    "title_english": "Praise Allah Abundantly",
-    "title_hindi": "बहुत सारी प्रशंसा अल्लाह के लिए",
-    "title_urdu": "اللہ کی بہت تعریف",
-    "arabic": "الْحَمْدُ لِلَّهِ كَثِيرًا",
-    "transliteration": "Alhamdulillah kathiran",
-    "translation_english": "Praise Allah abundantly.",
-    "translation_hindi": "बहुत सारी प्रशंसा अल्लाह के लिए।",
-    "translation_urdu": "اللہ کی بہت تعریف۔",
-    "reference": "Hadith"
+    "purpose": {
+      "arabic": "لتخفيف العبء",
+      "english": "For easing burdens",
+      "hindi": "बोझ हल्का करने के लिए",
+      "urdu": "بوجھ ہلکا کرنے کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَا وَلَا تَحۡمِلۡ عَلَيۡنَآ إِصۡرٗا كَمَا حَمَلۡتَهُۥ عَلَى ٱلَّذِينَ مِن قَبۡلِنَاۚ",
+      "english": "Our Allah, and lay not upon us a burden like that which You laid upon those before us.",
+      "hindi": "हे हमारे अल्लाह, और हमारे ऊपर वैसा बोझ न डाल जैसा तूने हमसे पहले वालों पर डाला था।",
+      "urdu": "اے ہمارے اللہ! ہم پر ایسا بوجھ نہ لاد جیسا تو نے ہم سے پہلے والوں پر لاد دیا تھا۔"
+    },
+    "reference": {
+      "arabic": "سورة البقرة ٢:٢٨٦",
+      "english": "Surah Al-Baqarah 2:286",
+      "hindi": "सूरह अल-बक़रह 2:286",
+      "urdu": "سورۃ البقرہ 2:286"
+    }
   },
   {
     "id": 7,
-    "title_arabic": "رَبِّ زِدْنِي عِلْمًا",
-    "title_english": "Increase My Knowledge",
-    "title_hindi": "मेरे ज्ञान में वृद्धि करें",
-    "title_urdu": "میرے علم میں اضافہ فرمائیں",
-    "arabic": "رَبِّ زِدْنِي عِلْمًا",
-    "transliteration": "Rabbi zidni ilma",
-    "translation_english": "My Lord, increase me in knowledge.",
-    "translation_hindi": "हे मेरे पालनहार! मेरे ज्ञान में वृद्धि कर।",
-    "translation_urdu": "اے میرے رب! میرے علم میں اضافہ فرما۔",
-    "reference": "Quran 20:114"
+    "purpose": {
+      "arabic": "لمغفرة ورحمة",
+      "english": "For forgiveness and mercy",
+      "hindi": "माफी और रहमत के लिए",
+      "urdu": "معافی اور رحمت کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَا وَلَا تُحَمِّلۡنَا مَا لَا طَاقَةَ لَنَا بِهِۦۖ وَٱعۡفُ عَنَّا وَٱغۡفِرۡ لَنَا وَٱرۡحَمۡنَآۚ أَنتَ مَوۡلَىٰنَا فَٱنصُرۡنَا عَلَى ٱلۡقَوۡمِ ٱلۡكَٰفِرِينَ",
+      "english": "Our Allah, do not burden us with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people.",
+      "hindi": "हे हमारे अल्लाह, हमें वह बोझ न दे जिसकी हम ताकत न रखते हों। और हमसे माफ कर, और हमें बख्श दे, और हम पर रहम फरमा। तू हमारा संरक्षक है, तो काफिरों पर हमारी मदद फरमा।",
+      "urdu": "اے ہمارے اللہ! ہمیں ایسا بوجھ نہ اُٹھانے والا بنا جس کی ہمیں طاقت نہ ہو، اور ہمیں معاف کر، اور ہمیں بخش دے، اور ہم پر رحم فرما، تو ہمارا مولا ہے، تو کافروں پر ہماری مدد فرما۔"
+    },
+    "reference": {
+      "arabic": "سورة البقرة ٢:٢٨٦",
+      "english": "Surah Al-Baqarah 2:286",
+      "hindi": "सूरह अल-बक़रह 2:286",
+      "urdu": "سورۃ البقرہ 2:286"
+    }
   },
   {
     "id": 8,
-    "title_arabic": "اللهم اجعلني من التوابين",
-    "title_english": "Make Me Among The Repenters",
-    "title_hindi": "मुझे तौबा करने वालों में शामिल कर",
-    "title_urdu": "مجھے توبہ کرنے والوں میں شامل فرما",
-    "arabic": "اللَّهُمَّ اجْعَلْنِي مِنْ التَّوَّابِينَ",
-    "transliteration": "Allahumma aj‘alni min at-tawwabeen",
-    "translation_english": "O Allah, make me among those who repent.",
-    "translation_hindi": "हे अल्लाह! मुझे तौबा करने वालों में शामिल कर।",
-    "translation_urdu": "اے اللہ! مجھے توبہ کرنے والوں میں شامل فرما۔",
-    "reference": "Hadith"
+    "purpose": {
+      "arabic": "للحماية من النار",
+      "english": "For protection from the Fire",
+      "hindi": "आग से हिफाजत के लिए",
+      "urdu": "آگ سے حفاظت کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَآ إِنَّكَ مَن تُدْخِلِ النَّارَ فَقَدْ أَخْزَيْتَهُۥ وَمَا لِلظَّالِمِينَ مِنْ أَنْصَارٍ",
+      "english": "Our Allah, indeed whoever You admit to the Fire, You have disgraced him, and for the wrongdoers there are no helpers.",
+      "hindi": "हे हमारे अल्लाह, निश्चय ही तू जो आग में डालेगा, उसे बेइज्जत कर देगा। और जालिमों के लिए कोई मददगार नहीं।",
+      "urdu": "اے ہمارے اللہ! بے شک تو جس کو آگ میں داخل کرے گا تو اس کو ذلیل کر دے گا اور ظالموں کے لیے کوئی مددگار نہیں۔"
+    },
+    "reference": {
+      "arabic": "سورة آل عمران ٣:١٩٢",
+      "english": "Surah Aal-E-Imran 3:192",
+      "hindi": "सूरह आल-ए-इमरान 3:192",
+      "urdu": "سورۃ آل عمران 3:192"
+    }
   },
   {
     "id": 9,
-    "title_arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً",
-    "title_english": "Give Us Good in This World",
-    "title_hindi": "हमें दुनिया में भलाई दे",
-    "title_urdu": "ہمیں دنیا میں بھلائی عطا فرما",
-    "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً",
-    "transliteration": "Rabbana atina fid-dunya hasanah",
-    "translation_english": "Our Lord! Give us good in this world.",
-    "translation_hindi": "हे हमारे पालनहार! हमें दुनिया में भलाई दे।",
-    "translation_urdu": "اے ہمارے رب! ہمیں دنیا میں بھلائی عطا فرما۔",
-    "reference": "Quran 2:201"
+    "purpose": {
+      "arabic": "للمغفرة والموت مع الصالحين",
+      "english": "For forgiveness and dying with the righteous",
+      "hindi": "माफी और सालेहों के साथ मौत के लिए",
+      "urdu": "معافی اور صالحوں کے ساتھ موت کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَآ إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِي لِلْإِيمَانِ أَنْ آمِنُوا بِرَبِّكُمْ فَآمَنَّا رَبَّنَا فَاغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّئَاتِنَا وَتَوَفَّنَا مَعَ الْأَبْرَارِ",
+      "english": "Our Allah, indeed we have heard a caller calling to faith, [saying], 'Believe in your Allah,' and we have believed. Our Allah, so forgive us our sins and remove from us our misdeeds and cause us to die with the righteous.",
+      "hindi": "हे हमारे अल्लाह, निश्चय ही हमने एक बुलाने वाले को सुना जो ईमान की तरफ बुला रहा था, 'अपने अल्लाह पर ईमान लाओ,' और हम ईमान लाए। हे हमारे अल्लाह, तो हमारे गुनाह माफ कर और हमसे हमारी बुराइयां दूर कर और हमें सालेहों के साथ मरने दे।",
+      "urdu": "اے ہمارے اللہ! ہم نے ایک ندا کرنے والے کو سنا جو ایمان کی طرف بلاتا تھا کہ اپنے اللہ پر ایمان لاؤ تو ہم ایمان لے آئے، اے ہمارے اللہ! ہمارے گناہ معاف فرما اور ہماری برائیاں مٹا دے اور ہمیں صالحوں کے ساتھ وفات دے۔"
+    },
+    "reference": {
+      "arabic": "سورة آل عمران ٣:١٩٣",
+      "english": "Surah Aal-E-Imran 3:193",
+      "hindi": "सूरह आल-ए-इमरान 3:193",
+      "urdu": "سورۃ آل عمران 3:193"
+    }
   },
   {
     "id": 10,
-    "title_arabic": "رَبِّ نَجِّنِي مِنَ الظَّالِمِينَ",
-    "title_english": "Save Me From Wrongdoers",
-    "title_hindi": "मुझे जालिमों से बचा",
-    "title_urdu": "مجھے ظالموں سے نجات دے",
-    "arabic": "رَبِّ نَجِّنِي مِنَ الظَّالِمِينَ",
-    "transliteration": "Rabbi najjini min az-zalimeen",
-    "translation_english": "My Lord! Save me from the wrongdoing people.",
-    "translation_hindi": "हे मेरे पालनहार! मुझे जालिम लोगों से बचा।",
-    "translation_urdu": "اے میرے رب! مجھے ظالم لوگوں سے نجات دے۔",
-    "reference": "Quran 28:21"
+    "purpose": {
+      "arabic": "للرحمة والهداية",
+      "english": "For mercy and guidance",
+      "hindi": "रहमत और हिदायत के लिए",
+      "urdu": "رحمت اور ہدایت کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَآ ءَاتِنَا مِن لَّدُنْكَ رَحْمَةً وَهَيْءِ لَنَا مِنْ أَمْرِنَا رَشَدًا",
+      "english": "Our Allah, grant us from Yourself mercy and prepare for us from our affair right guidance.",
+      "hindi": "हे हमारे अल्लाह, अपने पास से हमें रहमत अता फरमा और हमारे मामले में हमारे लिए रास्ता सही कर।",
+      "urdu": "اے ہمارے اللہ! اپنے پاس سے ہمیں رحمت عطا فرما اور ہمارے معاملے میں ہمیں ہدایت دے۔"
+    },
+    "reference": {
+      "arabic": "سورة الكهف ١٨:١٠",
+      "english": "Surah Al-Kahf 18:10",
+      "hindi": "सूरह अल-कहफ 18:10",
+      "urdu": "سورۃ الکہف 18:10"
+    }
   },
   {
     "id": 11,
-    "title_arabic": "رَبِّ اشْرَحْ لِي صَدْرِي",
-    "title_english": "Open My Chest",
-    "title_hindi": "मेरा सीना खोल दे",
-    "title_urdu": "میرا سینہ کھول دے",
-    "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي",
-    "transliteration": "Rabbi ishrah li sadri",
-    "translation_english": "My Lord, expand for me my chest.",
-    "translation_hindi": "हे मेरे पालनहार! मेरा सीना खोल दे।",
-    "translation_urdu": "اے میرے رب! میرا سینہ کھول دے۔",
-    "reference": "Quran 20:25"
+    "purpose": {
+      "arabic": "للمغفرة والحماية من الفِتَن",
+      "english": "For forgiveness and protection from trials",
+      "hindi": "माफी और फित्नों से हिफाजत के लिए",
+      "urdu": "معافی اور فتنوں سے حفاظت کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِلَّذِينَ كَفَرُوا وَاغْفِرْ لَنَا رَبَّنَا إِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ",
+      "english": "Our Allah, do not make us a trial for those who have disbelieved, and forgive us, our Allah. Indeed You are the Exalted in Might, the Wise.",
+      "hindi": "हे हमारे अल्लाह, हमें उन लोगों के लिए फित्ना न बना जो काफिर हैं, और हमें बख्श दे, हे हमारे अल्लाह। निश्चय ही तू जाबिर, हकीम है।",
+      "urdu": "اے ہمارے اللہ! ہمیں کافروں کے لیے فتنہ نہ بنا، اور ہمیں معاف فرما اے ہمارے اللہ! تو غالب حکیم ہے۔"
+    },
+    "reference": {
+      "arabic": "سورة الممتحنة ٦٠:٥",
+      "english": "Surah Al-Mumtahanah 60:5",
+      "hindi": "सूरह अल-मुम्तहिनाह 60:5",
+      "urdu": "سورۃ الممتحنہ 60:5"
+    }
   },
   {
     "id": 12,
-    "title_arabic": "اللهم إني أعوذ بك من الشيطان",
-    "title_english": "I Seek Refuge From Satan",
-    "title_hindi": "मैं शैतान से सुरक्षा मांगता हूँ",
-    "title_urdu": "میں شیطان سے پناہ مانگتا ہوں",
-    "arabic": "اللهم إني أعوذ بك من الشيطان الرجيم",
-    "transliteration": "Allahumma inni a’udhu bika min ash-shaytanir-rajim",
-    "translation_english": "O Allah! I seek refuge with You from the accursed devil.",
-    "translation_hindi": "हे अल्लाह! मैं शैतान के फरेब से तेरी शरण मांगता हूँ।",
-    "translation_urdu": "اے اللہ! میں شیطان مردود سے تیری پناہ مانگتا ہوں۔",
-    "reference": "Hadith"
+    "purpose": {
+      "arabic": "لإكمال النور والمغفرة",
+      "english": "For perfecting light and forgiveness",
+      "hindi": "नूर पूरा करने और माफी के लिए",
+      "urdu": "نور مکمل کرنے اور معافی کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَآ أَتْمِمْ لَنَا نُورَنَا وَٱغْفِرْ لَنَآ ۖ إِنَّكَ عَلَىٰ كُلِّ شَيْءٍۢ قَدِيرٌۭ",
+      "english": "Our Allah, perfect for us our light and forgive us. Indeed, You are over all things competent.",
+      "hindi": "हे हमारे अल्लाह, हमारे लिए हमारा नूर पूरा कर और हमें बख्श दे। निश्चय ही तू हर चीज पर कादिर है।",
+      "urdu": "اے ہمارے اللہ! ہمارا نور مکمل فرما اور ہمیں معاف کر، تو ہر چیز پر قادر ہے۔"
+    },
+    "reference": {
+      "arabic": "سورة التحريم ٦٦:٨",
+      "english": "Surah At-Tahrim 66:8",
+      "hindi": "सूरह अत-तहरीम 66:8",
+      "urdu": "سورۃ التحریم 66:8"
+    }
   },
   {
     "id": 13,
-    "title_arabic": "رَبِّ لَا تَذَرْنِي فَرْدًا",
-    "title_english": "Do Not Leave Me Alone",
-    "title_hindi": "मुझे अकेला न छोड़",
-    "title_urdu": "مجھے اکیلا نہ چھوڑ",
-    "arabic": "رَبِّ لَا تَذَرْنِي فَرْدًا",
-    "transliteration": "Rabbi la tadharni fardan",
-    "translation_english": "My Lord, do not leave me alone.",
-    "translation_hindi": "हे मेरे पालनहार! मुझे अकेला न छोड़।",
-    "translation_urdu": "اے میرے رب! مجھے اکیلا نہ چھوڑ۔",
-    "reference": "Quran 21:89"
+    "purpose": {
+      "arabic": "للذرية الطيبة",
+      "english": "For good offspring",
+      "hindi": "अच्छी संतान के लिए",
+      "urdu": "اچھی اولاد کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّ هَبْ لِي مِن لَّدُنْكَ ذُرِّيَّةً طَيِّبَةً إِنَّكَ سَمِيعُ الدُّعَاءِ",
+      "english": "My Allah, grant me from Yourself a good offspring. Indeed, You are the Hearer of supplication.",
+      "hindi": "हे मेरे अल्लाह, अपने पास से मुझे अच्छी संतान अता फरमा। निश्चय ही तू दुआओं को सुनने वाला है।",
+      "urdu": "اے میرے اللہ! اپنے پاس سے مجھے اچھی اولاد عطا فرما، تو دعاؤں کو سننے والا ہے۔"
+    },
+    "reference": {
+      "arabic": "سورة آل عمران ٣:٣٨",
+      "english": "Surah Aal-E-Imran 3:38",
+      "hindi": "सूरह आल-ए-इमरान 3:38",
+      "urdu": "سورۃ آل عمران 3:38"
+    }
   },
   {
     "id": 14,
-    "title_arabic": "اللهم ارزقني الصبر",
-    "title_english": "Grant Me Patience",
-    "title_hindi": "मुझे धैर्य दे",
-    "title_urdu": "مجھے صبر عطا فرما",
-    "arabic": "اللهم ارزقني الصبر",
-    "transliteration": "Allahumma arzuqni as-sabr",
-    "translation_english": "O Allah! Grant me patience.",
-    "translation_hindi": "हे अल्लाह! मुझे धैर्य दे।",
-    "translation_urdu": "اے اللہ! مجھے صبر عطا فرما۔",
-    "reference": "Hadith"
+    "purpose": {
+      "arabic": "للخير",
+      "english": "For good",
+      "hindi": "भलाई के लिए",
+      "urdu": "بھلائی کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبِّ إِنِّي لِمَآ أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍۢ فَقِيرٌۭ",
+      "english": "My Allah, indeed I am, for whatever good You would send down to me, in need.",
+      "hindi": "हे मेरे अल्लाह, निश्चय ही मैं उस भलाई के मोहताज हूं जो तू मेरे पास उतारेगा।",
+      "urdu": "اے میرے اللہ! میں اس بھلائی کا محتاج ہوں جو تو مجھ پر نازل کرے گا۔"
+    },
+    "reference": {
+      "arabic": "سورة القصص ٢٨:٢٤",
+      "english": "Surah Al-Qasas 28:24",
+      "hindi": "सूरह अल-कसस 28:24",
+      "urdu": "سورۃ القصص 28:24"
+    }
   },
   {
     "id": 15,
-    "title_arabic": "اللهم اجعلني من الشاكرين",
-    "title_english": "Make Me Among The Grateful",
-    "title_hindi": "मुझे कृतज्ञ लोगों में शामिल कर",
-    "title_urdu": "مجھے شکر گزار لوگوں میں شامل فرما",
-    "arabic": "اللهم اجعلني من الشاكرين",
-    "transliteration": "Allahumma aj‘alni min ash-shakireen",
-    "translation_english": "O Allah! Make me among the grateful.",
-    "translation_hindi": "हे अल्लाह! मुझे कृतज्ञ लोगों में शामिल कर।",
-    "translation_urdu": "اے اللہ! مجھے شکر گزار لوگوں میں شامل فرما۔",
-    "reference": "Hadith"
+    "purpose": {
+      "arabic": "للمغفرة والحماية من النار",
+      "english": "For forgiveness and protection from the Fire",
+      "hindi": "माफी और आग से हिफाजत के लिए",
+      "urdu": "معافی اور آگ سے حفاظت کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَآ آمَنَّا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ ٱلنَّارِ",
+      "english": "Our Allah, we have believed, so forgive us our sins and protect us from the punishment of the Fire.",
+      "hindi": "हे हमारे अल्लाह, हम ईमान लाए, तो हमारे गुनाह माफ कर और हमें आग के अजाब से बचा।",
+      "urdu": "اے ہمارے اللہ! ہم ایمان لائے تو ہمارے گناہ معاف کر اور ہمیں آگ کے عذاب سے بچا۔"
+    },
+    "reference": {
+      "arabic": "سورة آل عمران ٣:١٦",
+      "english": "Surah Aal-E-Imran 3:16",
+      "hindi": "सूरह आल-ए-इमरान 3:16",
+      "urdu": "سورۃ آل عمران 3:16"
+    }
   },
   {
     "id": 16,
-    "title_arabic": "اللهم اهدي قلبي",
-    "title_english": "Guide My Heart",
-    "title_hindi": "मेरे दिल को सही राह दिखा",
-    "title_urdu": "میرے دل کو ہدایت دے",
-    "arabic": "اللهم اهدي قلبي",
-    "transliteration": "Allahumma ihdil qalbi",
-    "translation_english": "O Allah! Guide my heart.",
-    "translation_hindi": "हे अल्लाह! मेरे दिल को सही राह दिखा।",
-    "translation_urdu": "اے اللہ! میرے دل کو ہدایت دے۔",
-    "reference": "Hadith"
+    "purpose": {
+      "arabic": "لليقين في الآخرة",
+      "english": "For certainty in the Hereafter",
+      "hindi": "आखिरत में यकीन के लिए",
+      "urdu": "آخرت میں یقین کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَآ إِنَّكَ جَامِعُ ٱلنَّاسِ لِيَوْمٍۢ لَا رَيْبَ فِيهِۦٓ ۚ إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ",
+      "english": "Our Allah, surely You will gather the people for a Day about which there is no doubt. Indeed, Allah does not fail in His promise.",
+      "hindi": "हे हमारे अल्लाह, निश्चय ही तू लोगों को एक दिन के लिए इकट्ठा करेगा जिसमें कोई शक नहीं। निश्चय ही अल्लाह वादा तोड़ने वाला नहीं।",
+      "urdu": "اے ہمارے اللہ! تو لوگوں کو اس دن کے لیے جمع کرے گا جس میں کوئی شک نہیں، اللہ وعدہ خلافی نہیں کرتا۔"
+    },
+    "reference": {
+      "arabic": "سورة آل عمران ٣:٩",
+      "english": "Surah Aal-E-Imran 3:9",
+      "hindi": "सूरह आल-ए-इमरान 3:9",
+      "urdu": "سورۃ آل عمران 3:9"
+    }
   },
   {
     "id": 17,
-    "title_arabic": "رب اجعل لي نصيباً من الخير",
-    "title_english": "Grant Me Portion of Goodness",
-    "title_hindi": "मुझे भलाई का हिस्सा दे",
-    "title_urdu": "مجھے بھلائی میں حصہ عطا فرما",
-    "arabic": "رَبِّ اجعل لي نصيباً من الخير",
-    "transliteration": "Rabbi aj‘al li naseeban min al-khayr",
-    "translation_english": "My Lord, grant me a portion of goodness.",
-    "translation_hindi": "हे मेरे पालनहार! मुझे भलाई का हिस्सा दे।",
-    "translation_urdu": "اے میرے رب! مجھے بھلائی میں حصہ عطا فرما۔",
-    "reference": "Hadith"
+    "purpose": {
+      "arabic": "للهداية والرحمة",
+      "english": "For guidance and mercy",
+      "hindi": "हिदायत और रहमत के लिए",
+      "urdu": "ہدایت اور رحمت کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةً ۚ إِنَّكَ أَنْتَ ٱلْوَهَّابُ",
+      "english": "Our Allah, let not our hearts deviate after You have guided us and grant us from Yourself mercy. Indeed, You are the Bestower.",
+      "hindi": "हे हमारे अल्लाह, हमारे दिलों को भटकने न दे जब तूने हमें हिदायत दी और अपने पास से हमें रहमत अता फरमा। निश्चय ही तू वाहिब है।",
+      "urdu": "اے ہمارے اللہ! ہمارے دلوں کو ٹیڑھا نہ کر جب تو نے ہمیں ہدایت دی اور اپنے پاس سے ہمیں رحمت عطا فرما، تو بہت دینے والا ہے۔"
+    },
+    "reference": {
+      "arabic": "سورة آل عمران ٣:٨",
+      "english": "Surah Aal-E-Imran 3:8",
+      "hindi": "सूरह आल-ए-इमरान 3:8",
+      "urdu": "سورۃ آل عمران 3:8"
+    }
   },
   {
     "id": 18,
-    "title_arabic": "اللهم اجعل لي عوناً",
-    "title_english": "Grant Me Help",
-    "title_hindi": "मुझे सहायता दे",
-    "title_urdu": "مجھے مدد عطا فرما",
-    "arabic": "اللهم اجعل لي عوناً",
-    "transliteration": "Allahumma aj‘al li awnan",
-    "translation_english": "O Allah! Grant me help.",
-    "translation_hindi": "हे अल्लाह! मुझे सहायता दे।",
-    "translation_urdu": "اے اللہ! مجھے مدد عطا فرما۔",
-    "reference": "Hadith"
+    "purpose": {
+      "arabic": "للحماية من النار",
+      "english": "For protection from the Fire",
+      "hindi": "आग से हिफाजत के लिए",
+      "urdu": "آگ سے حفاظت کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَآ إِنَّكَ مَا خَلَقْتَ هَٰذَا بَاطِلًا ۚ سُبْحَٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ",
+      "english": "Our Allah, You did not create this aimlessly; exalted are You [above such a thing]; then protect us from the punishment of the Fire.",
+      "hindi": "हे हमारे अल्लाह, तूने यह व्यर्थ न बनाया; तू पाक है [ऐसे से]; तो हमें आग के अजाब से बचा।",
+      "urdu": "اے ہمارے اللہ! تو نے یہ بےکار نہ بنایا، تو پاک ہے، ہمیں آگ کے عذاب سے بچا۔"
+    },
+    "reference": {
+      "arabic": "سورة آل عمران ٣:١٩١",
+      "english": "Surah Aal-E-Imran 3:191",
+      "hindi": "सूरह आल-ए-इमरान 3:191",
+      "urdu": "سورۃ آل عمران 3:191"
+    }
   },
   {
     "id": 19,
-    "title_arabic": "اللهم احفظني من الشر",
-    "title_english": "Protect Me From Evil",
-    "title_hindi": "मुझे बुराई से बचा",
-    "title_urdu": "مجھے برائی سے محفوظ رکھ",
-    "arabic": "اللهم احفظني من الشر",
-    "transliteration": "Allahumma ahfazni min ash-sharr",
-    "translation_english": "O Allah! Protect me from evil.",
-    "translation_hindi": "हे अल्लाह! मुझे बुराई से बचा।",
-    "translation_urdu": "اے اللہ! مجھے برائی سے محفوظ رکھ۔",
-    "reference": "Hadith"
+    "purpose": {
+      "arabic": "للتوكل والنجاة",
+      "english": "For reliance and salvation",
+      "hindi": "भरोसे और नजात के लिए",
+      "urdu": "بھروسے اور نجات کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ ٱلْمَصِيرُ",
+      "english": "Our Allah, upon You we have relied, and to You we have returned, and to You is the destination.",
+      "hindi": "हे हमारे अल्लाह, हमने तुझ पर भरोसा किया, और तेरी ही ओर लौटना है, और तेरी ही ओर रुजू है।",
+      "urdu": "اے ہمارے اللہ! ہم نے تجھ پر بھروسہ کیا اور تیری ہی طرف رجوع ہے، اور تیری ہی طرف لوٹنا ہے۔"
+    },
+    "reference": {
+      "arabic": "سورة الممتحنة ٦٠:٤",
+      "english": "Surah Al-Mumtahanah 60:4",
+      "hindi": "सूरह अल-मुम्तहिनाह 60:4",
+      "urdu": "سورۃ الممتحنہ 60:4"
+    }
   },
   {
     "id": 20,
-    "title_arabic": "رب اجعلني من الصالحين",
-    "title_english": "Make Me Among The Righteous",
-    "title_hindi": "मुझे नेक लोगों में शामिल कर",
-    "title_urdu": "مجھے نیک لوگوں میں شامل فرما",
-    "arabic": "رَبِّ اجعلني من الصالحين",
-    "transliteration": "Rabbi aj‘alni min as-salihin",
-    "translation_english": "My Lord, make me among the righteous.",
-    "translation_hindi": "हे मेरे पालनहार! मुझे नेक लोगों में शामिल कर।",
-    "translation_urdu": "اے میرے رب! مجھے نیک لوگوں میں شامل فرما۔",
-    "reference": "Quran 25:74"
+    "purpose": {
+      "arabic": "لعدم الوضع مع الكافرين",
+      "english": "Not to be placed with the disbelievers",
+      "hindi": "काफिरों के साथ न रखने के लिए",
+      "urdu": "کافروں کے ساتھ نہ رکھنے کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَا لَا تَجْعَلْنَا مَعَ ٱلْقَوْمِ ٱلْكَٰفِرِينَ",
+      "english": "Our Allah, do not place us with the disbelieving people.",
+      "hindi": "हे हमारे अल्लाह, हमें काफिरों के साथ न रख।",
+      "urdu": "اے ہمارے اللہ! ہمیں کافروں کے ساتھ نہ رکھ۔"
+    },
+    "reference": {
+      "arabic": "سورة الحشر ٥٩:١٠",
+      "english": "Surah Al-Hashr 59:10",
+      "hindi": "सूरह अल-हश्र 59:10",
+      "urdu": "سورۃ الحشر 59:10"
+    }
+  },
+  {
+    "id": 21,
+    "purpose": {
+      "arabic": "لقرة الأعين في الأزواج والذرية",
+      "english": "For comfort in spouses and offspring",
+      "hindi": "बीवियों और संतानों में आंखों की ठंडक के लिए",
+      "urdu": "بیویوں اور اولاد میں آنکھوں کی ٹھنڈک کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+      "english": "Our Allah, grant us from among our wives and offspring comfort to our eyes and make us an example for the righteous.",
+      "hindi": "हे हमारे अल्लाह, हमारी बीवियों और संतानों में से हमें आंखों की ठंडक अता फरमा और हमें मुत्तकीन का इमाम बना।",
+      "urdu": "اے ہمارے اللہ! ہماری بیویوں اور اولاد میں سے ہمیں آنکھوں کی ٹھنڈک عطا فرما اور ہمیں پرہیزگاروں کا پیشوا بنا۔"
+    },
+    "reference": {
+      "arabic": "سورة الفرقان ٢٥:٧٤",
+      "english": "Surah Al-Furqan 25:74",
+      "hindi": "सूरह अल-फुरकान 25:74",
+      "urdu": "سورۃ الفرقان 25:74"
+    }
+  },
+  {
+    "id": 22,
+    "purpose": {
+      "arabic": "للمغفرة والنصر",
+      "english": "For forgiveness and victory",
+      "hindi": "माफी और नुसरत के लिए",
+      "urdu": "معافی اور فتح کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَاٱغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِىٓ أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَٱنْصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ",
+      "english": "Our Allah, forgive us our sins and the excess [committed] in our affairs and plant firmly our feet and give us victory over the disbelieving people.",
+      "hindi": "हे हमारे अल्लाह, हमारे गुनाह माफ कर और हमारे मामलों में हमारी ज्यादा ती और हमारे कदम मजबूत कर और काफिरों पर हमारी नुसरत फरमा।",
+      "urdu": "اے ہمارے اللہ! ہمارے گناہ معاف فرما اور ہمارے معاملوں میں ہماری زیادتی اور ہمارے قدم جمانے میں مدد فرما اور کافروں پر ہماری فتح عطا فرما۔"
+    },
+    "reference": {
+      "arabic": "سورة آل عمران ٣:١٤٧",
+      "english": "Surah Aal-E-Imran 3:147",
+      "hindi": "सूरह आल-ए-इमरान 3:147",
+      "urdu": "سورۃ آل عمران 3:147"
+    }
+  },
+  {
+    "id": 23,
+    "purpose": {
+      "arabic": "للنصر",
+      "english": "For victory",
+      "hindi": "नुसरत के लिए",
+      "urdu": "فتح کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّ إِنِّى مَغْلُوبٌ فَٱنْتَصِرْ",
+      "english": "My Allah, indeed I am overcome, so help.",
+      "hindi": "हे मेरे अल्लाह, निश्चय ही मैं मगलूब हूं, तो नुसरत फरमा।",
+      "urdu": "اے میرے اللہ! میں مغلوب ہوں تو میری مدد فرما۔"
+    },
+    "reference": {
+      "arabic": "سورة القمر ٥٤:١٠",
+      "english": "Surah Al-Qamar 54:10",
+      "hindi": "सूरह अल-कमर 54:10",
+      "urdu": "سورۃ القمر 54:10"
+    }
+  },
+  {
+    "id": 24,
+    "purpose": {
+      "arabic": "للمغفرة والذرية الطيبة",
+      "english": "For forgiveness and good offspring",
+      "hindi": "माफी और अच्छी संतान के लिए",
+      "urdu": "معافی اور اچھی اولاد کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبِّ ٱغْفِرْ لِيٓ وَهَبْ لِي مِن لَّدُنْكَ ذُرِّيَّةً طَيِّبَةً ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "english": "My Allah, forgive me and grant me from Yourself a good offspring. Indeed, You are the Hearer, the Knowing.",
+      "hindi": "हे मेरे अल्लाह, मुझे बख्श दे और अपने पास से मुझे अच्छी संतान अता फरमा। निश्चय ही तू सुनने वाला, जानने वाला है।",
+      "urdu": "اے میرے اللہ! مجھے معاف فرما اور اپنے پاس سے مجھے اچھی اولاد عطا فرما، تو سننے والا جاننے والا ہے۔"
+    },
+    "reference": {
+      "arabic": "سورة آل عمران ٣:٣٨",
+      "english": "Surah Aal-E-Imran 3:38",
+      "hindi": "सूरह आल-ए-इमरान 3:38",
+      "urdu": "سورۃ آل عمران 3:38"
+    }
+  },
+  {
+    "id": 25,
+    "purpose": {
+      "arabic": "لدفع عذاب جهنم",
+      "english": "To avert the punishment of Hell",
+      "hindi": "जहन्नम के अजाब को टालने के लिए",
+      "urdu": "جہنم کے عذاب کو ٹالنے کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَاٱصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ ۖ إِنَّ عَذَابَهَا كَانَ غَرَامًۭا",
+      "english": "Our Allah, avert from us the punishment of Hell. Indeed, its punishment is ever adhering.",
+      "hindi": "हे हमारे अल्लाह, जहन्नम का अजाब हमसे हटा दे; निश्चय ही इसका अजاب हमेशा लगातार होता है।",
+      "urdu": "اے ہمارے اللہ! جہنم کا عذhrsاب ہمیں سے دور کر، اس کا عذاب بہت شدید ہے۔"
+    },
+    "reference": {
+      "arabic": "سورة الفرقان ٢٥:٦٥",
+      "english": "Surah Al-Furqan 25:65",
+      "hindi": "सूरह अल-फुरकान 25:65",
+      "urdu": "سورۃ الفرقان 25:65"
+    }
+  },
+  {
+    "id": 26,
+    "purpose": {
+      "arabic": "للدخول في الجنة",
+      "english": "For entry into Paradise",
+      "hindi": "जन्नत में दाखिल होने के लिए",
+      "urdu": "جنت میں داخل ہونے کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَآ أَدْخِلْنَا جَنَّاتِ عَدْنٍ ٱلَّتِى وَعَدْتَنَا وَمَن صَلَحَ مِنْ ءَابَآئِنَا وَأَزْوَٰجِنَا وَذُرِّيَّٰتِنَآ ۚ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "english": "Our Allah, admit us to Gardens of Perpetual Residence which You have promised us and whoever was righteous among our fathers, our spouses, and our offspring. Indeed, You are the Exalted in Might, the Wise.",
+      "hindi": "हे हमारे अल्लाह, हमें जन्नतुल फिरदौस में दाखिल कर जो तूने हमसे वादा किया और जो हमारे बाप-दादा, बीवियों और संतानों में से नेक थे। निश्चय ही तू जाबिर, हकीम है।",
+      "urdu": "اے ہمارے اللہ! ہمیں جنت الفردوس میں داخل کر جو تو نے ہم سے وعدہ کیا اور ہمارے باپ دادا، بیویوں اور اولاد میں سے جو صالح تھے۔ تو غالب حکیم ہے۔"
+    },
+    "reference": {
+      "arabic": "سورة غافر ٤٠:٨",
+      "english": "Surah Ghafir 40:8",
+      "hindi": "सूरह गाफिर 40:8",
+      "urdu": "سورۃ غافر 40:8"
+    }
+  },
+  {
+    "id": 27,
+    "purpose": {
+      "arabic": "للمغفرة للوالدين والمؤمنين",
+      "english": "For forgiveness for parents and believers",
+      "hindi": "मां-बाप और मोमिनों की माफी के लिए",
+      "urdu": "والدین اور مومنوں کی معافی کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَاٱغْفِرْ لِيٓ وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ ٱلْحِسَابُ",
+      "english": "Our Allah, forgive me and my parents and the believers the Day the account is established.",
+      "hindi": "हे हमारे अल्लाह, मुझे और मेरे मां-बाप को बख्श दे और मोमिनों को हिसाब के दिन।",
+      "urdu": "اے ہمارے اللہ! مجھے اور میرے والدین کو معاف فرما اور مومنوں کو حساب کے دن۔"
+    },
+    "reference": {
+      "arabic": "سورة إبراهيم ١٤:٤١",
+      "english": "Surah Ibrahim 14:41",
+      "hindi": "सूरह इब्राहीम 14:41",
+      "urdu": "سورۃ ابراہیم 14:41"
+    }
+  },
+  {
+    "id": 28,
+    "purpose": {
+      "arabic": "للرحمة",
+      "english": "For mercy",
+      "hindi": "रहमत के लिए",
+      "urdu": "رحمت کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبِّ ٱرْحَمْهُمَا كَمَا رَبَّيَانِى صَغِيرًۭا",
+      "english": "My Allah, have mercy upon them as they brought me up [when I was] small.",
+      "hindi": "हे मेरे अल्लाह, उन पर रहम फरमा जैसे उन्होंने मुझे छोटा होने पर पाला।",
+      "urdu": "اے میرے اللہ! ان پر رحم فرما جیسے انہوں نے مجھے چھوٹے پن میں پالا۔"
+    },
+    "reference": {
+      "arabic": "سورة الإسراء ١٧:٢٤",
+      "english": "Surah Al-Isra 17:24",
+      "hindi": "सूरह अल-इस्रा 17:24",
+      "urdu": "سورۃ الاسراء 17:24"
+    }
+  },
+  {
+    "id": 29,
+    "purpose": {
+      "arabic": "للمعافاة والهداية",
+      "english": "For salvation and guidance",
+      "hindi": "नजात और हिदायत के लिए",
+      "urdu": "نجات اور ہدایت کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَآ إِنَّنَآ آمَنَّا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ ٱلنَّارِ",
+      "english": "Our Allah, indeed we have believed, so forgive us our sins and protect us from the punishment of the Fire.",
+      "hindi": "हे हमारे अल्लाह, निश्चय ही हम ईमान लाए, तो हमारे गुनाह माफ कर और हमें आग के अजाब से बचा।",
+      "urdu": "اے ہمارے اللہ! ہم ایمان لائے تو ہمارے گناہ معاف کر اور ہمیں آگ کے عذاب سے بچا۔"
+    },
+    "reference": {
+      "arabic": "سورة آل عمران ٣:١٦",
+      "english": "Surah Aal-E-Imran 3:16",
+      "hindi": "सूरह आल-ए-इमरान 3:16",
+      "urdu": "سورۃ آل عمران 3:16"
+    }
+  },
+  {
+    "id": 30,
+    "purpose": {
+      "arabic": "للنصر على الكافرين",
+      "english": "For victory over the disbelievers",
+      "hindi": "काफिरों पर नुसरत के लिए",
+      "urdu": "کافروں پر فتح کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَاٱنْصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ",
+      "english": "Our Allah, give us victory over the disbelieving people.",
+      "hindi": "हे हमारे अल्लाह, काफिरों पर हमारी नुसरت फरमा।",
+      "urdu": "اے ہمارے اللہ! کافروں پر ہماری فتح عطا فرما۔"
+    },
+    "reference": {
+      "arabic": "سورة البقرة ٢:٢٨٦",
+      "english": "Surah Al-Baqarah 2:286",
+      "hindi": "सूरह अल-बक़रह 2:286",
+      "urdu": "سورۃ البقرہ 2:286"
+    }
+  },
+  {
+    "id": 31,
+    "purpose": {
+      "arabic": "لعدم الوضع مع الكافرين",
+      "english": "Not to be among the disbelievers",
+      "hindi": "काफिरों में न गिने जाने के लिए",
+      "urdu": "کافروں میں شمار نہ ہونے کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَا لَا تَجْعَلْنَا مَعَ ٱلْقَوْمِ ٱلظَّالِمِينَ",
+      "english": "Our Allah, do not place us with the wrongdoing people.",
+      "hindi": "हे हमारे अल्लाह, हमें जालिम कौम के साथ न रख।",
+      "urdu": "اے ہمارے اللہ! ہمیں ظالم قوم کے ساتھ نہ رکھ۔"
+    },
+    "reference": {
+      "arabic": "سورة الأعراف ٧:٤٧",
+      "english": "Surah Al-A'raf 7:47",
+      "hindi": "सूरह अल-अराफ 7:47",
+      "urdu": "سورۃ الاعراف 7:47"
+    }
+  },
+  {
+    "id": 32,
+    "purpose": {
+      "arabic": "للدخول في الجنة مع الأبرار",
+      "english": "For entry into Paradise with the righteous",
+      "hindi": "सालेहों के साथ जन्नत में दाखिल होने के लिए",
+      "urdu": "صالحوں کے ساتھ جنت میں داخل ہونے کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَآ أَدْخِلْنَا جَنَّاتِ عَدْنٍ مَعَ ٱلْأَبْرَارِ",
+      "english": "Our Allah, admit us to Gardens of Perpetual Residence with the righteous.",
+      "hindi": "हे हमारे अल्लाह, हमें सालेहों के साथ जन्नतुल फिरदौस में दाखिल कर।",
+      "urdu": "اے ہمارے اللہ! ہمیں صالحوں کے ساتھ جنت الفردوس میں داخل کر۔"
+    },
+    "reference": {
+      "arabic": "سورة النحل ١٦:٣٢",
+      "english": "Surah An-Nahl 16:32",
+      "hindi": "सूरह अन-नहल 16:32",
+      "urdu": "سورۃ النحل 16:32"
+    }
+  },
+  {
+    "id": 33,
+    "purpose": {
+      "arabic": "للنصر على القوم الظالمين",
+      "english": "For victory over the oppressive people",
+      "hindi": "जालिम कौम पर नुसरत के लिए",
+      "urdu": "ظالم قوم پر فتح کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَاٱنْصُرْنَا عَلَىٰ قَوْمِنَا ٱلظَّالِمِينَ",
+      "english": "Our Allah, give us victory over our oppressive people.",
+      "hindi": "हे हमारे अल्लाह, हमारी जालिम कौम पर नुसरत फरमा।",
+      "urdu": "اے ہمارے اللہ! ہماری ظالم قوم پر ہماری فتح عطا فرما۔"
+    },
+    "reference": {
+      "arabic": "سورة العنكبوت ٢٩:٣٠",
+      "english": "Surah Al-Ankabut 29:30",
+      "hindi": "सूरह अल-अंकबूत 29:30",
+      "urdu": "سورۃ العنکبوت 29:30"
+    }
+  },
+  {
+    "id": 34,
+    "purpose": {
+      "arabic": "لدفع عذابها",
+      "english": "To avert its punishment",
+      "hindi": "इसके अजाब को टालने के लिए",
+      "urdu": "اس کے عذاب کو ٹالنے کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَاٱصْرِفْ عَنَّا عَذَابَهَآ إِنَّ عَذَابَهَا كَانَ غَرَامًۭا",
+      "english": "Our Allah, divert its punishment from us; indeed, its punishment is ever unrelenting.",
+      "hindi": "हे हमारे अल्लाह, इसका अजाब हमसे हटा दे; निश्चय ही इसका अजाब हमेशा लगातार होता है।",
+      "urdu": "اے ہمارے اللہ! اس کا عذاب ہمیں سے دور کر، اس کا عذاب بہت شدید ہے۔"
+    },
+    "reference": {
+      "arabic": "سورة الدخان ٤٤:١٢",
+      "english": "Surah Ad-Dukhan 44:12",
+      "hindi": "सूरह अद-दुखान 44:12",
+      "urdu": "سورۃ الدخان 44:12"
+    }
+  },
+  {
+    "id": 35,
+    "purpose": {
+      "arabic": "للمغفرة والرحمة",
+      "english": "For forgiveness and mercy",
+      "hindi": "माफी और रहम के लिए",
+      "urdu": "معافی اور رحم کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَآ آمَنَّا فَٱغْفِرْ لَنَا وَرَحْمَنَا وَأَنتَ خَيْرُ ٱلرَّٰحِمِينَ",
+      "english": "Our Allah, we have believed, so forgive us and have mercy upon us, and You are the best of the merciful.",
+      "hindi": "हे हमारे अल्लाह, हम ईमान लाए, तो हमें बख्श दे और हम पर रहम फरमा, और तू सबसे बेहतर रहम करने वालों में से है।",
+      "urdu": "اے ہمارے اللہ! ہم ایمان لائے تو ہمیں معاف کر اور رحم فرما، تو رحم کرنے والوں میں بہترین ہے۔"
+    },
+    "reference": {
+      "arabic": "سورة الأعراف ٧:١٥١",
+      "english": "Surah Al-A'raf 7:151",
+      "hindi": "सूरह अल-अराफ 7:151",
+      "urdu": "سورۃ الاعراف 7:151"
+    }
+  },
+  {
+    "id": 36,
+    "purpose": {
+      "arabic": "للثبات على الحق",
+      "english": "For steadfastness on the truth",
+      "hindi": "हक पर जमे रहने के लिए",
+      "urdu": "حق پر ثابت قدم رہنے کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا",
+      "english": "Our Allah, let not our hearts deviate after You have guided us.",
+      "hindi": "हे हमारे अल्लाह, हमारे दिलों को भटकने न दे जब तूने हमें हिदायत दी।",
+      "urdu": "اے ہمارے اللہ! ہمارے دلوں کو ٹیڑھا نہ کر جب تو نے ہمیں ہدایت دی۔"
+    },
+    "reference": {
+      "arabic": "سورة آل عمران ٣:٨",
+      "english": "Surah Aal-E-Imran 3:8",
+      "hindi": "सूरह आल-ए-इमरान 3:8",
+      "urdu": "سورۃ آل عمران 3:8"
+    }
+  },
+  {
+    "id": 37,
+    "purpose": {
+      "arabic": "للرزق الحلال",
+      "english": "For lawful sustenance",
+      "hindi": "हलाल रिज्क के लिए",
+      "urdu": "حلال رزق کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبِّ ٱغْفِرْ لِي وَهَبْ لِي مُلْكًا لَا يَنْبَغِي لِأَحَدٍ مِنْ بَعْدِي ۖ إِنَّكَ أَنتَ ٱلْوَهَّابُ",
+      "english": "My Allah, forgive me and grant me a dominion that will not suit anyone after me. Indeed, You are the Bestower.",
+      "hindi": "हे मेरे अल्लाह, मुझे बख्श दे और मुझे ऐसी बादशाही अता फरमा जो मेरे बाद किसी के लिए शोभा न दे। निश्चय ही तू वाहिब है।",
+      "urdu": "اے میرے اللہ! مجھے معاف کر اور مجھے ایسی سلطنت عطا فرما جو میرے بعد کسی کے لیے مناسب نہ ہو، تو بہت دینے والا ہے۔"
+    },
+    "reference": {
+      "arabic": "سورة ص ٣٨:٣٥",
+      "english": "Surah Sad 38:35",
+      "hindi": "सूरह साद 38:35",
+      "urdu": "سورۃ ص 38:35"
+    }
+  },
+  {
+    "id": 38,
+    "purpose": {
+      "arabic": "للحماية من الظالمين",
+      "english": "For protection from oppressors",
+      "hindi": "जालिमों से हिफाजत के लिए",
+      "urdu": "ظالموں سے حفاظت کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَآ أَخْرِجْنَا مِنْ هَٰذِهِ ٱلْقَرْيَةِ ٱلظَّالِمِ أَهْلُهَا",
+      "english": "Our Allah, take us out of this city of oppressive people.",
+      "hindi": "हे हमारे अल्लाह, हमें इस शहर से निकाल ले जिसके लोग जालिम हैं।",
+      "urdu": "اے ہمارے اللہ! ہمیں اس شہر سے نکال لے جس کے لوگ ظالم ہیں۔"
+    },
+    "reference": {
+      "arabic": "سورة النساء ٤:٧٥",
+      "english": "Surah An-Nisa 4:75",
+      "hindi": "सूरह अन-निसा 4:75",
+      "urdu": "سورۃ النساء 4:75"
+    }
+  },
+  {
+    "id": 39,
+    "purpose": {
+      "arabic": "للعلم النافع",
+      "english": "For beneficial knowledge",
+      "hindi": "फायदेमंद इल्म के लिए",
+      "urdu": "نفع بخش علم کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبِّ زِدْنِى عِلْمًۭا",
+      "english": "My Allah, increase me in knowledge.",
+      "hindi": "हे मेरे अल्लाह, मुझे इल्म में बढ़ोतरी कर।",
+      "urdu": "اے میرے اللہ! مجھے علم میں اضافہ فرما۔"
+    },
+    "reference": {
+      "arabic": "سورة طه ٢٠:١١٤",
+      "english": "Surah Taha 20:114",
+      "hindi": "सूरह ताहा 20:114",
+      "urdu": "سورۃ طہ 20:114"
+    }
+  },
+  {
+    "id": 40,
+    "purpose": {
+      "arabic": "للصبر والثبات",
+      "english": "For patience and steadfastness",
+      "hindi": "सब्र और थबात के लिए",
+      "urdu": "صبر اور ثابت قدمی کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًۭا وَتَوَفَّنَا مُسْلِمِينَ",
+      "english": "Our Allah, pour upon us patience and let us die as Muslims [in submission to You].",
+      "hindi": "हे हमारे अल्लाह, हमारे ऊपर सब्र उंडेल दे और हमें मुस्लिमों की तरह मरने दे [तेरे आज्ञाकारी]।",
+      "urdu": "اے ہمارے اللہ! ہم پر صبر نازل فرما اور ہمیں مسلم کی حیثیت سے وفات دے [تیری فرمانبرداری میں]۔"
+    },
+    "reference": {
+      "arabic": "سورة الأعراف ٧:١٢٦",
+      "english": "Surah Al-A'raf 7:126",
+      "hindi": "सूरह अल-अराफ 7:126",
+      "urdu": "سورۃ الاعراف 7:126"
+    }
+  },
+  {
+    "id": 41,
+    "purpose": {
+      "arabic": "للحماية من الشيطان",
+      "english": "For protection from Satan",
+      "hindi": "शैतान से हिफाजत के लिए",
+      "urdu": "شیطان سے حفاظت کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبِّ أَعُوذُ بِكَ مِنْ هَمَزَٰتِ ٱلشَّيَٰطِينِ",
+      "english": "My Allah, I seek refuge in You from the incitements of the devils.",
+      "hindi": "हे मेरे अल्लाह, मैं तुझ में शैतानों के उकसावे से पनाह मांगता हूं।",
+      "urdu": "اے میرے اللہ! میں تیری پناہ مانگتا ہوں شیطانوں کے وسوسوں سے۔"
+    },
+    "reference": {
+      "arabic": "سورة المؤمنون ٢٣:٩٧",
+      "english": "Surah Al-Mu'minun 23:97",
+      "hindi": "सूरह अल-मुमिनून 23:97",
+      "urdu": "سورۃ المومنون 23:97"
+    }
+  },
+  {
+    "id": 42,
+    "purpose": {
+      "arabic": "للنجاة من الظلم",
+      "english": "For salvation from oppression",
+      "hindi": "जुल्म से नजात के लिए",
+      "urdu": "ظلم سے نجات کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبِّ ٱنْجِنِي مِنَ ٱلْقَوْمِ ٱلظَّالِمِينَ",
+      "english": "My Allah, save me from the wrongdoing people.",
+      "hindi": "हे मेरे अल्लाह, मुझे जालिम कौम से नजात दे।",
+      "urdu": "اے میرے اللہ! مجھے ظالم قوم سے نجات دے۔"
+    },
+    "reference": {
+      "arabic": "سورة القصص ٢٨:٢١",
+      "english": "Surah Al-Qasas 28:21",
+      "hindi": "सूरह अल-कसस 28:21",
+      "urdu": "سورۃ القصص 28:21"
+    }
+  },
+  {
+    "id": 43,
+    "purpose": {
+      "arabic": "للقوة والثبات",
+      "english": "For strength and steadfastness",
+      "hindi": "ताकत और थबात के लिए",
+      "urdu": "طاقت اور ثابت قدمی کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًۭا وَثَبِّتْ أَقْدَامَنَا",
+      "english": "Our Allah, pour upon us patience and plant firmly our feet.",
+      "hindi": "हे हमारे अल्लाह, हमारे ऊपर सब्र उंडेल दे और हमारे कदम मजबूत कर दे।",
+      "urdu": "اے ہمارے اللہ! ہم پر صبر نازل فرما اور ہمارے قدم جمانے میں مدد فرما۔"
+    },
+    "reference": {
+      "arabic": "سورة البقرة ٢:٢٥٠",
+      "english": "Surah Al-Baqarah 2:250",
+      "hindi": "सूरह अल-बक़रह 2:250",
+      "urdu": "سورۃ البقرہ 2:250"
+    }
+  },
+  {
+    "id": 44,
+    "purpose": {
+      "arabic": "للحماية من العذاب",
+      "english": "For protection from punishment",
+      "hindi": "अजाब से हिफाजत के लिए",
+      "urdu": "عذاب سے حفاظت کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا",
+      "english": "Our Allah, do not impose blame upon us if we have forgotten or erred.",
+      "hindi": "हे हमारे अल्लाह, अगर हम भूल गए या गलती की तो हमें दोष न दे।",
+      "urdu": "اے ہمارے اللہ! اگر ہم بھول جائیں یا خطا کریں تو ہمیں ملامت نہ کر۔"
+    },
+    "reference": {
+      "arabic": "سورة البقرة ٢:٢٨٦",
+      "english": "Surah Al-Baqarah 2:286",
+      "hindi": "सूरह अल-बक़रह 2:286",
+      "urdu": "سورۃ البقرہ 2:286"
+    }
+  },
+  {
+    "id": 45,
+    "purpose": {
+      "arabic": "للخلاص من الضيق",
+      "english": "For relief from distress",
+      "hindi": "तंगी से नजात के लिए",
+      "urdu": "تنگی سے نجات کے لیے"
+    },
+    "dua": {
+      "arabic": "لَآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ",
+      "english": "There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.",
+      "hindi": "तेरे सिवा कोई माबूद नहीं; तू पाक है। निश्चय ही मैं जालिमों में से था।",
+      "urdu": "تیرے سوا کوئی معبود نہیں، تو پاک ہے، میں ظالموں میں سے تھا۔"
+    },
+    "reference": {
+      "arabic": "سورة الأنبياء ٢١:٨٧",
+      "english": "Surah Al-Anbiya 21:87",
+      "hindi": "सूरह अल-अंबिया 21:87",
+      "urdu": "سورۃ الانبیاء 21:87"
+    }
+  },
+  {
+    "id": 46,
+    "purpose": {
+      "arabic": "للتوفيق في الأمور",
+      "english": "For success in affairs",
+      "hindi": "मामलों में कामयाबी के लिए",
+      "urdu": "معاملات میں کامیابی کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبِّ ٱدْخُلْنِى مُدْخَلَ صِدْقٍۢ وَأَخْرِجْنِى مُخْرَجَ صِدْقٍۢ وَٱجْعَل لِّى مِن لَّدُنْكَ سُلْطَٰنًۭا نَّصِيرًۭا",
+      "english": "My Allah, cause me to enter a sound entrance and to exit a sound exit and grant me from Yourself a supporting authority.",
+      "hindi": "हे मेरे अल्लाह, मुझे सच्चाई के साथ दाखिल कर और सच्चाई के साथ निकाल और अपने पास से मुझे मददगार सल्तनत अता फरमा।",
+      "urdu": "اے میرے اللہ! مجھے سچائی کے ساتھ داخل کر اور سچائی کے ساتھ نکال اور اپنے پاس سے مجھے مددگار اقتدار عطا فرما۔"
+    },
+    "reference": {
+      "arabic": "سورة الإسراء ١٧:٨٠",
+      "english": "Surah Al-Isra 17:80",
+      "hindi": "सूरह अल-इस्रा 17:80",
+      "urdu": "سورۃ الاسراء 17:80"
+    }
+  },
+  {
+    "id": 47,
+    "purpose": {
+      "arabic": "للحماية من الشر",
+      "english": "For protection from evil",
+      "hindi": "शर से हिफाजत के लिए",
+      "urdu": "شر سے حفاظت کے لیے"
+    },
+    "dua": {
+      "arabic": "رَبِّ أَعُوذُ بِكَ مِنْ شَرِّ مَا خَلَقْتَ",
+      "english": "My Allah, I seek refuge in You from the evil of what You have created.",
+      "hindi": "हे मेरे अल्लाह, मैं तेरी पनाह मांगता हूं उस शर से जो तूने पैदा किया।",
+      "urdu": "اے میرے اللہ! میں تیری پناہ مانگتا ہوں اس شر سے جو تو نے پیدا کیا۔"
+    },
+    "reference": {
+      "arabic": "سورة البقرة ٢:٢٤٣، صحيح البخاري",
+      "english": "Surah Al-Baqarah 2:243, Sahih Al-Bukhari",
+      "hindi": "सूरह अल-बक़रह 2:243, सहीह अल-बुखारी",
+      "urdu": "سورۃ البقرہ 2:243، صحیح بخاری"
+    }
+  },
+  {
+    "id": 48,
+    "purpose": {
+      "arabic": "للشفاء من المرض",
+      "english": "For healing from illness",
+      "hindi": "बीमारी से शिफा के लिए",
+      "urdu": "بیماری سے شفا کے لیے"
+    },
+    "dua": {
+      "arabic": "اللَّهُمَّ رَبَّ النَّاسِ أَذْهِبِ الْبَأْسَ، اشْفِ أَنْتَ الشَّافِي، لَا شِفَاءَ إِلَّا شِفَاؤُكَ، شِفَاءً لَا يُغَادِرُ سَقَمًا",
+      "english": "O Allah, Lord of mankind, remove the affliction, grant healing, for You are the Healer. There is no healing but Your healing, a healing that leaves no trace of illness.",
+      "hindi": "ऐ अल्लाह, इंसानों के रब, तकलीफ को दूर कर, शिफा अता फरमा, क्योंकि तू ही शिफा देने वाला है। तेरे शिफा के सिवा कोई शिफा नहीं, ऐसी शिफा जो कोई बीमारी न छोड़े।",
+      "urdu": "اے اللہ! لوگوں کے رب، تکلیف دور کر، شفا عطا فرما، تو ہی شفا دینے والا ہے۔ تیری شفا کے سوا کوئی شفا نہیں، ایسی شفا جو کوئی بیماری نہ چھوڑے۔"
+    },
+    "reference": {
+      "arabic": "صحيح البخاري ٥٧٤٢",
+      "english": "Sahih Al-Bukhari 5742",
+      "hindi": "सहीह अल-बुखारी 5742",
+      "urdu": "صحیح بخاری 5742"
+    }
+  },
+  {
+    "id": 49,
+    "purpose": {
+      "arabic": "للحماية من الحسد",
+      "english": "For protection from envy",
+      "hindi": "हसद से हिफाजत के लिए",
+      "urdu": "حسد سے حفاظت کے لیے"
+    },
+    "dua": {
+      "arabic": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ شَرِّ مَا خَلَقَ",
+      "english": "I seek refuge in the perfect words of Allah from the evil of what He has created.",
+      "hindi": "मैं अल्लाह के पूर्ण शब्दों में उस शर से पनाह मांगता हूं जो उसने पैदा किया।",
+      "urdu": "میں اللہ کے کامل کلمات کے ساتھ اس شر سے پناہ مانگتا ہوں جو اس نے پیدا کیا۔"
+    },
+    "reference": {
+      "arabic": "صحيح مسلم ٢٧٠٨",
+      "english": "Sahih Muslim 2708",
+      "hindi": "सहीह मुस्लिम 2708",
+      "urdu": "صحیح مسلم 2708"
+    }
+  },
+  {
+    "id": 50,
+    "purpose": {
+      "arabic": "للبركة في الرزق",
+      "english": "For blessings in sustenance",
+      "hindi": "रिज्क में बरकत के लिए",
+      "urdu": "رزق میں برکت کے لیے"
+    },
+    "dua": {
+      "arabic": "اللَّهُمَّ اكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ، وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+      "english": "O Allah, suffice me with Your lawful provision against Your unlawful, and make me independent of all besides You.",
+      "hindi": "ऐ अल्लाह, मुझे अपने हलाल रिज्क से तेरे हराम से बेपरवाह कर, और मुझे अपने फजल से दूसरों से बेनियाज कर।",
+      "urdu": "اے اللہ! مجھے اپنے حلال رزق سے تیرے حرام سے بےنیاز کر، اور اپنے فضل سے مجھے دوسروں سے آزاد کر۔"
+    },
+    "reference": {
+      "arabic": "سنن الترمذي ٣٥٦٣",
+      "english": "Sunan At-Tirmidhi 3563",
+      "hindi": "सुनन अत-तिर्मिजी 3563",
+      "urdu": "سنن ترمذی 3563"
+    }
   }
 ]
