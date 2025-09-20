@@ -1,1 +1,66 @@
+{
+  "meta": { "version": 1, "updated": "2025-09-19" },
+  "hadith": [
+    {
+      "id": 1,
+      "book": "Sahih Bukhari",
+      "arabic": "إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ",
+      "transliteration": "Innamal a'maalu bin-niyyaat",
+      "text": {
+        "english": "Actions are judged by intentions.",
+        "hindi": "काम नियत के आधार पर माने जाते हैं।",
+        "urdu": "اعمال نیت کے مطابق ہوتے ہیں۔"
+      },
+      "explanation": {
+        "english": "This hadith means reward depends on intention; even small deeds with good intention are rewarded.",
+        "hindi": "इस हदीस का मतलब है कि हर काम की सजा/इनाम उसकी नियत पर निर्भर करती है।",
+        "urdu": "اس حدیث کا مطلب ہے کہ اعمال کا دارومدار نیت پر ہے۔"
+      },
+      "reference": "Bukhari 1",
+      "authenticity": "Sahih",
+      "category": "Faith",
+      "tags": ["intention","reward"]
+    },
+    {
+      "id": 2,
+      "book": "Sahih Muslim",
+      "arabic": "الدِّينُ النَّصِيحَةُ",
+      "transliteration": "Ad-deenu an-naseehah",
+      "text": {
+        "english": "Religion is sincere advice.",
+        "hindi": "धर्म ईमानदार सलाह है।",
+        "urdu": "دین نصیحت ہے۔"
+      },
+      "explanation": {
+        "english": "Encourages sincere advice and care among Muslims.",
+        "hindi": "ईमानदार सलाह और आपसी ध्यान देने का संदेश।",
+        "urdu": "ایماندار نصیحت اور باہمی توجہ کا پیغام۔"
+      },
+      "reference": "Muslim 55",
+      "authenticity": "Sahih",
+      "category": "Akhlaq",
+      "tags": ["ethics","social"]
+    },
+    {
+      "id": 3,
+      "book": "Tirmidhi",
+      "arabic": "طَلَبُ الْعِلْمِ فَرِيضَةٌ",
+      "transliteration": "Talabul ilmi faridah",
+      "text": {
+        "english": "Seeking knowledge is an obligation upon every Muslim.",
+        "hindi": "इल्म हासिल करना हर मुस्लिम पर फ़र्ज़ है।",
+        "urdu": "علم حاصل کرنا ہر مسلمان پر فرض ہے۔"
+      },
+      "explanation": {
+        "english":"Importance of seeking knowledge for all.",
+        "hindi":"सबके लिए ज्ञान हासिल करने का महत्व।",
+        "urdu":"سب کے لیے علم حاصل کرنے کی اہمیت۔"
+      },
+      "reference":"Tirmidhi 74",
+      "authenticity":"Hasan",
+      "category":"Knowledge",
+      "tags":["knowledge","learning"]
+    }
+  ]
+}
 
