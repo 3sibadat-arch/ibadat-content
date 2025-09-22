@@ -1,1 +1,422 @@
-
+[
+  {
+    "id": 1,
+    "purpose": {
+      "arabic": "للرزق والبركة",
+      "english": "For sustenance and blessings",
+      "urdu": "روزگار اور برکت کے لیے",
+      "hindi": "रोज़गार और बरकत के लिए"
+    },
+    "wazifa": {
+      "arabic": "اللّهُ لا إِلَهَ إِلا هُوَ الْحَيُّ الْقَيُّومُ",
+      "english": "Allah! There is no deity except Him, the Ever-Living, the Sustainer of existence.",
+      "urdu": "اللہ! اس کے سوا کوئی معبود نہیں، زندہ اور قائم رہنے والا۔",
+      "hindi": "अल्लाह! उसके अलावा कोई इबादत योग्य नहीं, वह ज़िंदा और कायम रहने वाला है।"
+    },
+    "reference": {
+      "arabic": "سورة البقرة ٢:٢٥٥",
+      "english": "Surah Al-Baqarah 2:255",
+      "urdu": "سورۃ البقرہ 2:255",
+      "hindi": "सूरह अल-बक़रह 2:255"
+    }
+  },
+  {
+    "id": 2,
+    "purpose": {
+      "arabic": "للشفاء والصحة",
+      "english": "For healing and health",
+      "urdu": "شفا اور صحت کے لیے",
+      "hindi": "स्वास्थ्य और उपचार के लिए"
+    },
+    "wazifa": {
+      "arabic": "أَعُوذُ بِكَلِمَاتِ اللهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+      "english": "I seek refuge in the perfect words of Allah from the evil of what He has created.",
+      "urdu": "میں اللہ کے مکمل کلمات میں پناہ مانگتا ہوں ہر برائی سے جو اُس نے پیدا کی۔",
+      "hindi": "मैं अल्लाह के सम्पूर्ण शब्दों में शरण लेता हूँ उसके बनाए हुए हर बुराई से।"
+    },
+    "reference": {
+      "arabic": "حديث صحيح",
+      "english": "Authentic Hadith",
+      "urdu": "صحیح حدیث",
+      "hindi": "सही हदीस"
+    }
+  },
+  {
+    "id": 3,
+    "purpose": {
+      "arabic": "للسكينة والطمأنينة",
+      "english": "For peace and tranquility",
+      "urdu": "سکون اور اطمینان کے لیے",
+      "hindi": "शांति और चैन के लिए"
+    },
+    "wazifa": {
+      "arabic": "اللّهُ لا إِلَهَ إِلا هُوَ الْعَلِيْمُ الْحَكِيمُ",
+      "english": "Allah! There is no deity except Him, the All-Knowing, the Wise.",
+      "urdu": "اللہ! اس کے سوا کوئی معبود نہیں، سب جاننے والا اور حکمت والا۔",
+      "hindi": "अल्लाह! उसके अलावा कोई इबादत योग्य नहीं, सब जानने वाला और बुद्धिमान।"
+    },
+    "reference": {
+      "arabic": "سورة آل عمران ٢:١٨",
+      "english": "Surah Al-Imran 3:18",
+      "urdu": "سورۃ آل عمران 3:18",
+      "hindi": "सूरह आल इमरान 3:18"
+    }
+  },
+  {
+    "id": 4,
+    "purpose": {
+      "arabic": "للتوفيق والنجاح",
+      "english": "For success and guidance",
+      "urdu": "کامیابی اور رہنمائی کے لیے",
+      "hindi": "सफलता और मार्गदर्शन के लिए"
+    },
+    "wazifa": {
+      "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي",
+      "english": "My Lord! Expand my chest and make my task easy for me.",
+      "urdu": "اے میرے رب! میرا سینہ کھول دے اور میرا کام آسان کر دے۔",
+      "hindi": "हे मेरे रब! मेरा सीना खोल दे और मेरा कार्य आसान कर दे।"
+    },
+    "reference": {
+      "arabic": "سورة طه ٢٠:٢٥",
+      "english": "Surah Taha 20:25",
+      "urdu": "سورۃ طہ 20:25",
+      "hindi": "सूरह ताहा 20:25"
+    }
+  },
+  {
+    "id": 5,
+    "purpose": {
+      "arabic": "للحماية والبركة",
+      "english": "For protection and blessings",
+      "urdu": "حفاظت اور برکت کے لیے",
+      "hindi": "सुरक्षा और बरकत के लिए"
+    },
+    "wazifa": {
+      "arabic": "بِسْمِ اللهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ",
+      "english": "In the name of Allah, with whose name nothing in the earth or the heavens can harm.",
+      "urdu": "اللہ کے نام سے، جس کے نام سے زمین اور آسمان میں کچھ بھی نقصان نہیں پہنچا سکتا۔",
+      "hindi": "अल्लाह के नाम से, जिसके नाम से धरती और आसमान में कुछ भी हानि नहीं पहुंचा सकता।"
+    },
+    "reference": {
+      "arabic": "حديث صحيح",
+      "english": "Authentic Hadith",
+      "urdu": "صحیح حدیث",
+      "hindi": "सही हदीस"
+    }
+  },
+  {
+    "id": 6,
+    "purpose": {
+      "arabic": "للتوفيق في الدراسة",
+      "english": "For success in studies",
+      "urdu": "تعلیم میں کامیابی کے لیے",
+      "hindi": "पढ़ाई में सफलता के लिए"
+    },
+    "wazifa": {
+      "arabic": "رَبِّ زِدْنِي عِلْمًا",
+      "english": "My Lord! Increase me in knowledge.",
+      "urdu": "اے میرے رب! مجھے علم میں اضافہ فرما۔",
+      "hindi": "हे मेरे रब! मुझे ज्ञान में वृद्धि कर।"
+    },
+    "reference": {
+      "arabic": "سورة طه ٢٠:١١٤",
+      "english": "Surah Taha 20:114",
+      "urdu": "سورۃ طہ 20:114",
+      "hindi": "सूरह ताहा 20:114"
+    }
+  },
+  {
+    "id": 7,
+    "purpose": {
+      "arabic": "للسعادة والرضا",
+      "english": "For happiness and contentment",
+      "urdu": "خوشی اور اطمینان کے لیے",
+      "hindi": "ख़ुशी और संतोष के लिए"
+    },
+    "wazifa": {
+      "arabic": "اللّهُمَّ اجعلني راضياً بقضائك",
+      "english": "O Allah! Make me content with Your decree.",
+      "urdu": "اے اللہ! مجھے اپنے حکم سے راضی فرما۔",
+      "hindi": "हे अल्लाह! मुझे अपने फ़ैसले से संतुष्ट कर।"
+    },
+    "reference": {
+      "arabic": "دعاء مأثور",
+      "english": "Authentic Dua",
+      "urdu": "مأثور دعا",
+      "hindi": "मासूर दुआ"
+    }
+  },
+  {
+    "id": 8,
+    "purpose": {
+      "arabic": "للتوفيق في العمل",
+      "english": "For success in work",
+      "urdu": "کام میں کامیابی کے لیے",
+      "hindi": "काम में सफलता के लिए"
+    },
+    "wazifa": {
+      "arabic": "رَبِّ أَوْفِقْنِي فِي عَمَلِي",
+      "english": "My Lord! Grant me success in my work.",
+      "urdu": "اے میرے رب! مجھے اپنے کام میں کامیابی عطا فرما۔",
+      "hindi": "हे मेरे रब! मेरे काम में सफलता दें।"
+    },
+    "reference": {
+      "arabic": "دعاء مأثور",
+      "english": "Authentic Dua",
+      "urdu": "مأثور دعا",
+      "hindi": "मासूर दुआ"
+    }
+  },
+  {
+    "id": 9,
+    "purpose": {
+      "arabic": "للسعادة الزوجية",
+      "english": "For marital happiness",
+      "urdu": "شادی شدہ زندگی میں خوشی کے لیے",
+      "hindi": "वैवाहिक खुशियों के लिए"
+    },
+    "wazifa": {
+      "arabic": "رَبِّ اجعل بيني وبين زوجتي مودة ورحمة",
+      "english": "O Lord! Make love and mercy between me and my spouse.",
+      "urdu": "اے رب! میرے اور میری زوجہ کے درمیان محبت اور رحمت پیدا فرما۔",
+      "hindi": "हे रब! मेरे और मेरी पत्नी के बीच प्यार और दया पैदा करें।"
+    },
+    "reference": {
+      "arabic": "دعاء مأثور",
+      "english": "Authentic Dua",
+      "urdu": "مأثور دعا",
+      "hindi": "मासूर दुआ"
+    }
+  },
+  {
+    "id": 10,
+    "purpose": {
+      "arabic": "للسفر الآمن",
+      "english": "For safe travel",
+      "urdu": "محفوظ سفر کے لیے",
+      "hindi": "सुरक्षित यात्रा के लिए"
+    },
+    "wazifa": {
+      "arabic": "اللّهُمَّ اجعل سفري آمناً",
+      "english": "O Allah! Make my travel safe.",
+      "urdu": "اے اللہ! میرا سفر محفوظ فرما۔",
+      "hindi": "हे अल्लाह! मेरी यात्रा सुरक्षित करें।"
+    },
+    "reference": {
+      "arabic": "دعاء مأثور",
+      "english": "Authentic Dua",
+      "urdu": "مأثور دعا",
+      "hindi": "मासूर दुआ"
+    }
+  },
+    {
+    "id": 11,
+    "purpose": {
+      "arabic": "للرزق الحلال",
+      "english": "For halal sustenance",
+      "urdu": "حلال رزق کے لیے",
+      "hindi": "हलाल रोज़गार के लिए"
+    },
+    "wazifa": {
+      "arabic": "اللّهُمَّ ارزقني رزقاً طيباً",
+      "english": "O Allah! Provide me with pure sustenance.",
+      "urdu": "اے اللہ! مجھے حلال اور پاکیزہ رزق عطا فرما۔",
+      "hindi": "हे अल्लाह! मुझे हलाल और पवित्र रोज़गार दें।"
+    },
+    "reference": {
+      "arabic": "دعاء مأثور",
+      "english": "Authentic Dua",
+      "urdu": "مأثور دعا",
+      "hindi": "मासूर दुआ"
+    }
+  },
+  {
+    "id": 12,
+    "purpose": {
+      "arabic": "للتقوى والإيمان",
+      "english": "For piety and faith",
+      "urdu": "تقوی اور ایمان کے لیے",
+      "hindi": "परहेज़गारी और ईमान के लिए"
+    },
+    "wazifa": {
+      "arabic": "اللّهُمَّ اجعلني من المتقين",
+      "english": "O Allah! Make me among the pious.",
+      "urdu": "اے اللہ! مجھے پرہیزگاروں میں شامل فرما۔",
+      "hindi": "हे अल्लाह! मुझे परहेज़गारों में शामिल करें।"
+    },
+    "reference": {
+      "arabic": "دعاء مأثور",
+      "english": "Authentic Dua",
+      "urdu": "مأثور دعا",
+      "hindi": "मासूर दुआ"
+    }
+  },
+  {
+    "id": 13,
+    "purpose": {
+      "arabic": "للرزق بالعلم",
+      "english": "For gaining knowledge",
+      "urdu": "علم حاصل کرنے کے لیے",
+      "hindi": "ज्ञान प्राप्त करने के लिए"
+    },
+    "wazifa": {
+      "arabic": "رَبِّ زِدْنِي عِلْمًا",
+      "english": "My Lord! Increase me in knowledge.",
+      "urdu": "اے میرے رب! مجھے علم میں اضافہ فرما۔",
+      "hindi": "हे मेरे रब! मुझे ज्ञान में वृद्धि कर।"
+    },
+    "reference": {
+      "arabic": "سورة طه ٢٠:١١٤",
+      "english": "Surah Taha 20:114",
+      "urdu": "سورۃ طہ 20:114",
+      "hindi": "सूरह ताहा 20:114"
+    }
+  },
+  {
+    "id": 14,
+    "purpose": {
+      "arabic": "للطمأنينة والسكينة",
+      "english": "For calmness and tranquility",
+      "urdu": "اطمینان اور سکون کے لیے",
+      "hindi": "शांति और सुकून के लिए"
+    },
+    "wazifa": {
+      "arabic": "اللّهُمَّ اجعل قلبي مطمئناً",
+      "english": "O Allah! Make my heart peaceful.",
+      "urdu": "اے اللہ! میرا دل پر سکون بنا۔",
+      "hindi": "हे अल्लाह! मेरा दिल शांत कर।"
+    },
+    "reference": {
+      "arabic": "دعاء مأثور",
+      "english": "Authentic Dua",
+      "urdu": "مأثور دعا",
+      "hindi": "मासूर दुआ"
+    }
+  },
+  {
+    "id": 15,
+    "purpose": {
+      "arabic": "للتوفيق في الحياة",
+      "english": "For success in life",
+      "urdu": "زندگی میں کامیابی کے لیے",
+      "hindi": "जीवन में सफलता के लिए"
+    },
+    "wazifa": {
+      "arabic": "اللّهُمَّ وفقني في حياتي",
+      "english": "O Allah! Grant me success in my life.",
+      "urdu": "اے اللہ! مجھے زندگی میں کامیابی عطا فرما۔",
+      "hindi": "हे अल्लाह! मुझे जीवन में सफलता दें।"
+    },
+    "reference": {
+      "arabic": "دعاء مأثور",
+      "english": "Authentic Dua",
+      "urdu": "مأثور دعا",
+      "hindi": "मासूर दुआ"
+    }
+  },
+  {
+    "id": 16,
+    "purpose": {
+      "arabic": "للسعادة الدنيوية والأخروية",
+      "english": "For worldly and spiritual happiness",
+      "urdu": "دنیاوی اور آخرت کی خوشی کے لیے",
+      "hindi": "दुनिया और आख़िरत की खुशियों के लिए"
+    },
+    "wazifa": {
+      "arabic": "اللّهُمَّ اجعلني سعيداً في الدنيا والآخرة",
+      "english": "O Allah! Make me happy in this world and the Hereafter.",
+      "urdu": "اے اللہ! مجھے دنیا اور آخرت میں خوشی عطا فرما۔",
+      "hindi": "हे अल्लाह! मुझे दुनिया और आख़िरत में खुश करें।"
+    },
+    "reference": {
+      "arabic": "دعاء مأثور",
+      "english": "Authentic Dua",
+      "urdu": "مأثور دعا",
+      "hindi": "मासूर दुआ"
+    }
+  },
+  {
+    "id": 17,
+    "purpose": {
+      "arabic": "للتوفيق في الزواج",
+      "english": "For success in marriage",
+      "urdu": "شادی میں کامیابی کے لیے",
+      "hindi": "शादी में सफलता के लिए"
+    },
+    "wazifa": {
+      "arabic": "رَبِّ اجعل زواجي مباركاً",
+      "english": "O Lord! Make my marriage blessed.",
+      "urdu": "اے رب! میرا نکاح بابرکت فرما۔",
+      "hindi": "हे रब! मेरी शादी को बरकत वाला बनाएं।"
+    },
+    "reference": {
+      "arabic": "دعاء مأثور",
+      "english": "Authentic Dua",
+      "urdu": "مأثور دعا",
+      "hindi": "मासूर दुआ"
+    }
+  },
+  {
+    "id": 18,
+    "purpose": {
+      "arabic": "للسفر والتجارة",
+      "english": "For travel and business",
+      "urdu": "سفر اور کاروبار کے لیے",
+      "hindi": "यात्रा और व्यवसाय के लिए"
+    },
+    "wazifa": {
+      "arabic": "اللّهُمَّ بارك لي في سفري وتجاري",
+      "english": "O Allah! Bless my travel and business.",
+      "urdu": "اے اللہ! میرے سفر اور کاروبار میں برکت عطا فرما۔",
+      "hindi": "हे अल्लाह! मेरी यात्रा और व्यवसाय में बरकत दें।"
+    },
+    "reference": {
+      "arabic": "دعاء مأثور",
+      "english": "Authentic Dua",
+      "urdu": "مأثور دعا",
+      "hindi": "मासूर दुआ"
+    }
+  },
+  {
+    "id": 19,
+    "purpose": {
+      "arabic": "للرزق بالولد الصالح",
+      "english": "For righteous offspring",
+      "urdu": "صالح اولاد کے لیے",
+      "hindi": "धार्मिक संतानों के लिए"
+    },
+    "wazifa": {
+      "arabic": "اللّهُمَّ ارزقني ولداً صالحاً",
+      "english": "O Allah! Grant me righteous offspring.",
+      "urdu": "اے اللہ! مجھے صالح اولاد عطا فرما۔",
+      "hindi": "हे अल्लाह! मुझे धार्मिक संतानों दें।"
+    },
+    "reference": {
+      "arabic": "دعاء مأثور",
+      "english": "Authentic Dua",
+      "urdu": "مأثور دعا",
+      "hindi": "मासूर दुआ"
+    }
+  },
+  {
+    "id": 20,
+    "purpose": {
+      "arabic": "للرزق بالهدى والإيمان",
+      "english": "For guidance and faith",
+      "urdu": "ہدایت اور ایمان کے لیے",
+      "hindi": "मार्गदर्शन और ईमान के लिए"
+    },
+    "wazifa": {
+      "arabic": "اللّهُمَّ ارشدني وامنحني الإيمان",
+      "english": "O Allah! Guide me and grant me faith.",
+      "urdu": "اے اللہ! میری رہنمائی فرما اور ایمان عطا فرما۔",
+      "hindi": "हे अल्लाह! मुझे मार्गदर्शन दें और ईमान عطा करें।"
+    },
+    "reference": {
+      "arabic": "دعاء مأثور",
+      "english": "Authentic Dua",
+      "urdu": "مأثور دعا",
+      "hindi": "मासूर दुआ"
+    }
+  }
+]
